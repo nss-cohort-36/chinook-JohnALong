@@ -5,4 +5,4 @@ SELECT
 	c.LastName,
 	c.Country
 FROM Customer c 
-WHERE c.Country != 'USA' COLLATE NOCASE;
+WHERE c.Country != 'USA';
