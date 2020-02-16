@@ -1,2 +1,2 @@
 # chinook-JohnALong
-SQL answers John Long
+chinook SQL answers John Long
